@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Kubernetes",
+        "description": "Kubernetes (commonly stylized as k8s) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a \"platform for automating deployment, scaling, and operations of application containers across clusters of hosts\".It works with a range of container tools, including Docker. Many cloud services offer a Kubernetes-based platform or infrastructure as a service (PaaS or IaaS) on which Kubernetes can be deployed as a platform-providing service. Many vendors also provide their own branded Kubernetes distributions.",
+        "value": "Even though Kubernetes grew by its community, it has been somewhat groundbreaking to gain such powerfull tool for the community.",
+        "img": "img/kubernetes.png",
+        "notables": [
+            "66k stars on GitHub"
+        ]
+    },
+    {
+        "title": "Google Search",
+        "description": "Google Search, also referred to as Google Web Search or simply Google, is a web search engine developed by Google. It is the most used search engine on the World Wide Web across all platforms, with 92.62% market share as of June 2019, handling more than 5.4 billion searches each day.",
+        "value": "Dispite of certain criticism, Google Search has altered the way we work with the \"World wide web\". It gave a enormous boost for websites and the usage of it.",
+        "img": "img/google.png",
+        "notables": [
+            "Launched in 1997!",
+            "Google is now officially a verb in the Oxford English"
+        ]
+    },
+    {
+        "title": "reCAPTCHA",
+        "description": "The original iteration of the service was a mass collaboration platform designed for the digitization of books, particularly those that were too illegible to be scanned by computers. The verification prompts utilized pairs of words from scanned pages, with one known word used as a control for verification, and the second used to crowdsource the reading of an uncertain word.reCAPTCHA was originally developed by Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan at Carnegie Mellon University's main Pittsburgh campus. It was acquired by Google in September 2009. The system helped to digitize the archives of The New York Times, and was subsequently used by Google Books for similar purposes",
+        "value": "reCAPTCHA has changed over time, and while the critism was that users were doing \"free work\" - it's value always have been to protect websites from spam, bots and whatnot.",
+        "img": "img/recaptcha.png",
+        "notables": [
+            "Displaying over 100 million CAPTCHAs every day",
+            "Google pivoted the service away from its original concept, with a focus on reducing the amount of user interaction needed to verify a user"
+        ]
+    }     
+]
