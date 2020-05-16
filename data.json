@@ -30,7 +30,7 @@
     "title": "Golang",
     "description": "The Golang or Go language. Many of the tools used in the OSS world are written in Go and it is a great language to get started in.",
     "value": "Even though there are some critisms about what Go does or does not do, it is a very opinionated language with a very powerfull standard library. Many open source tools used every day across the globe are written in Go, and it is the ease of distribution and packaging that makes it that not everyone realises they are already using Golang projects.",
-    "img": "img/recaptcha.png",
+    "img": "img/golang.png",
     "notables": [
       "Written by some of the founding fathers of other languages.",
       "Opinionated language, squashing useless discussions about format.",
