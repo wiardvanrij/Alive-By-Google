@@ -33,7 +33,7 @@ func main() {
 	}
 
 	middleHTML, err := os.OpenFile("blocks/index-middle.tmpl",
-		os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+		os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
