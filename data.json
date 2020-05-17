@@ -1,15 +1,15 @@
 [
   {
     "title": "Kubernetes",
-    "description": "Kubernetes (commonly stylized as k8s) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a \"platform for automating deployment, scaling, and operations of application containers across clusters of hosts\".It works with a range of container tools, including Docker. Many cloud services offer a Kubernetes-based platform or infrastructure as a service (PaaS or IaaS) on which Kubernetes can be deployed as a platform-providing service. Many vendors also provide their own branded Kubernetes distributions.",
-    "value": "Even though Kubernetes grew by its community, it has been somewhat groundbreaking to gain such powerfull tool for the community.",
+    "description": "Kubernetes (commonly stylized as k8s) is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a \"platform for automating deployment, scaling, and operations of application containers across clusters of hosts\". It works with a range of container tools, including Docker. Many cloud services offer a Kubernetes-based platform or infrastructure as a service (PaaS or IaaS) on which Kubernetes can be deployed as a platform-providing service. Many vendors also provide their own branded Kubernetes distributions.",
+    "value": "Even though Kubernetes grew by its community, it has been somewhat groundbreaking to gain such powerful tool for the community.",
     "img": "img/kubernetes.png",
     "notables": ["66k stars on GitHub"]
   },
   {
     "title": "Google Search",
     "description": "Google Search, also referred to as Google Web Search or simply Google, is a web search engine developed by Google. It is the most used search engine on the World Wide Web across all platforms, with 92.62% market share as of June 2019, handling more than 5.4 billion searches each day.",
-    "value": "Dispite of certain criticism, Google Search has altered the way we work with the \"World wide web\". It gave a enormous boost for websites and the usage of it.",
+    "value": "Despite of certain criticism, Google Search has altered the way we work with the \"World wide web\". It gave a enormous boost for websites and the usage of it.",
     "img": "img/google.png",
     "notables": [
       "Launched in 1997!",
@@ -29,12 +29,12 @@
   {
     "title": "Golang",
     "description": "The Golang or Go language. Many of the tools used in the OSS world are written in Go and it is a great language to get started in.",
-    "value": "Even though there are some critisms about what Go does or does not do, it is a very opinionated language with a very powerfull standard library. Many open source tools used every day across the globe are written in Go, and it is the ease of distribution and packaging that makes it that not everyone realises they are already using Golang projects.",
+    "value": "Even though there are some criticisms about what Go does or does not do, it is a very opinionated language with a very powerful standard library. Many open source tools used every day across the globe are written in Go, and it is the ease of distribution and packaging that makes it that not everyone realises they are already using Golang projects.",
     "img": "img/golang.png",
     "notables": [
-      "Written by some of the founding fathers of other languages.",
-      "Opinionated language, squashing useless discussions about format.",
-      "Easy to learn but very powerfull"
+      "Written by some of the founding fathers of other languages",
+      "Opinionated language, squashing useless discussions about format",
+      "Easy to learn but very powerful"
     ]
   }
 ]
