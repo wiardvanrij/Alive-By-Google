@@ -1,1 +1,4 @@
 .DS_Store
+.idea/
+public/index.html
+blocks/index-middle.tmpl
