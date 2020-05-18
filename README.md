@@ -93,6 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/dickynovanto1103"><img src="https://avatars1.githubusercontent.com/u/22437392?v=4" width="100px;" alt=""/><br /><sub><b>Dicky Novanto</b></sub></a><br /><a href="https://github.com/wiardvanrij/Alive-By-Google/commits?author=dickynovanto1103" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/fabianmet"><img src="https://avatars2.githubusercontent.com/u/4489146?v=4" width="100px;" alt=""/><br /><sub><b>fabianmet</b></sub></a><br /><a href="#content-fabianmet" title="Content">🖋</a></td>
   </tr>
 </table>
