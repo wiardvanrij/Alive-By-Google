@@ -1,6 +1,6 @@
 # Goal
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Eventually the goal is to inform and provide an equal sound of the positive side. Not to bash, hate or attack "killedbygoogle". Everyone should have the right to express their thoughts, opinion, whatnot.
